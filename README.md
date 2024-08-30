@@ -2,9 +2,11 @@
 
 ![](https://i.imgur.com/ZdpFHzB.png)
 
-### Detailed Article:
+### Detailed Article
 
 We have worked with [Analytics Vidhya](https://www.analyticsvidhya.com/blog/) to get a detailed writeup done on the content covered in this talk. Do check out __[this detailed article in the Analytics Vidhya Blog](https://www.analyticsvidhya.com/blog/2024/08/improving-real-world-rag-systems/)__. 
+
+### Session Details
 
 Everyone knows how to build RAG systems, but how do you improve them? Retrieval Augmented Generation (RAG) systems have quickly become among the industry's biggest successes for driving Generative AI use cases on custom enterprise data. However, with their success comes a whole list of pain points that can lead to failure or sub-optimal performance in RAG systems. 
 
