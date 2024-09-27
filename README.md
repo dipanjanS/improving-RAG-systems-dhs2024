@@ -10,7 +10,7 @@ We have worked with [Analytics Vidhya](https://www.analyticsvidhya.com/blog/) to
 
 We have worked with [Analytics Vidhya](https://courses.analyticsvidhya.com/courses/improving-real-world-rag-systems-key-challenges) to get a FREE short course created based on the content covered in this talk. Do check out __[this free short course](https://courses.analyticsvidhya.com/courses/improving-real-world-rag-systems-key-challenges)__.
 
-![](https://i.imgur.com/KXNPmPE.gif)
+![](https://github.com/dipanjanS/improving-RAG-systems-dhs2024/blob/main/rag_course.gif)
 
 ### Session Details
 
